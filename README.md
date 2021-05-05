@@ -18,9 +18,7 @@ That project aims: **(I)** Build a simple multiplataform (Android and IOS) mobil
 **Key-Words**: Flutter framework; Dart Lang; Body-Mass-Index; UX Design;
  
 ### 2. Layout <a name="Layout"/>
-The Graphical User Interface (GUI), was projected following UX (User experience) principles.
-
-<img src="https://drive.google.com/uc?id=1JqabIc6SCmuz2bb55RMPWcSqzDXLezlV" width="219" height="400" />
+The Graphical User Interface (GUI), was projected following UX (User experience) principles. It will be available on future. 
 
 ### 4. Dependencies or libraries <a name="Dependencies"/>
 
