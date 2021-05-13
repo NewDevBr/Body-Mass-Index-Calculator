@@ -23,17 +23,17 @@ This application layout was concepted thinking about User Experience (UX) Princi
 micro text, typography using two differents fonts (Open Sans and Montserrat) and gradient.
 Some graphical resources don't was maked by the project author, as fonts and initial logo.
 
-<img src="https://github.com/NewDevBr/Body-Mass-Index-Calculator/lib/src/resources/imgs/flutter_02.png" width="219" height="400" />
+<img src="/lib/src/resources/imgs/flutter_02.png" width="219" height="400" />
 
-<img src="https://github.com/NewDevBr/Body-Mass-Index-Calculator/lib/src/resources/imgs/flutter_01.png" width="219" height="400" />
+<img src="/lib/src/resources/imgs/flutter_01.png" width="219" height="400" />
 
-<img src="https://github.com/NewDevBr/Body-Mass-Index-Calculator/lib/src/resources/imgs/flutter_03.png" width="219" height="400" />
+<img src="/lib/src/resources/imgs/flutter_03.png" width="219" height="400" />
 
-<img src="https://github.com/NewDevBr/Body-Mass-Index-Calculator/lib/src/resources/imgs/flutter_04.png" width="219" height="400" />
+<img src="/lib/src/resources/imgs/flutter_04.png" width="219" height="400" />
 
-<img src="https://github.com/NewDevBr/Body-Mass-Index-Calculator/lib/src/resources/imgs/flutter_05.png" width="219" height="400" />
+<img src="/lib/src/resources/imgs/flutter_05.png" width="219" height="400" />
 
-<img src="https://github.com/NewDevBr/Body-Mass-Index-Calculator/lib/src/resources/imgs/flutter_06.png" width="219" height="400" />
+<img src="/lib/src/resources/imgs/flutter_06.png" width="219" height="400" />
 
 
 ### 3. Dependencies or libraries <a name="Dependencies"/>
