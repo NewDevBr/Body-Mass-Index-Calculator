@@ -14,7 +14,7 @@
 
 ### 1. Abstract <a name="Abstract"/>
 
-This project aims: **(I)** Construct a mobile application, using Flutter and Dart, to calculates and show the body mass index calcs results and classification according to the complementary material hosted by Federal University of Pelotas [Click here to see that pdf material](https://dms.ufpel.edu.br/static/bib/apoio/imc.pdf). **(II)** Develop graphical users interface (GUI) following user experience techniques, as splah screen, micro texts and complementary colors as gradient background and text. **(III)** Implement some method to validate form data inputed by users on keyboard, allowing just typed double datatype.
+This project aims: **(I)** Construct a mobile application, using Flutter and Dart, to calculate and show body mass index calcs results and classification according to the complementary material hosted by Federal University of Pelotas [Click here to see that pdf material](https://dms.ufpel.edu.br/static/bib/apoio/imc.pdf). **(II)** Develop graphical users interface (GUI) following user experience techniques, as splash screen, micro texts and complementary colors as gradient background and text. **(III)** Implement some method to validate form data inputed by users on keyboard, allowing just typed double data type.
 
 **Key-Words**: Body-Mass-Index; BMI-classification; Form validation; Gradient;
  
@@ -36,7 +36,7 @@ Some graphical resources don't was maked by the project author, as fonts and ini
 <img src="/lib/src/resources/imgs/flutter_06.png" width="219" height="400" />
 
 
-### 3. Dependencies or libraries <a name="Dependencies"/>
+### 3. Dependencies, libraries or thrid-party resources <a name="Dependencies"/>
 
 Flutter_localizations:  [Flutter sdk about localizations docs](https://flutter.dev/docs/development/accessibility-and-localization/internationalization)
 
