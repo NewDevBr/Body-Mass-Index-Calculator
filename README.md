@@ -9,7 +9,7 @@
 
 ##### 1. [Abstract](#Abstract)
 ##### 2. [Layout](#Layout)
-##### 3. [Dependencies, libraries or thrid-party resources](#Dependencies)
+##### 3. [Dependencies, libraries or third-party resources](#Dependencies)
 ##### 4. [Body-Mass-Index](#BMI)
 
 ### 1. Abstract <a name="Abstract"/>
@@ -36,7 +36,7 @@ Some graphical resources don't was maked by the project author, as fonts and ini
 <img src="/lib/src/resources/imgs/flutter_06.png" width="219" height="400" />
 
 
-### 3. Dependencies, libraries or thrid-party resources <a name="Dependencies"/>
+### 3. Dependencies, libraries or third-party resources <a name="Dependencies"/>
 
 Flutter_localizations:  [Flutter sdk about localizations docs](https://flutter.dev/docs/development/accessibility-and-localization/internationalization)
 
